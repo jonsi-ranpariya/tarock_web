@@ -1,0 +1,45 @@
+.sidenavlinks {
+  padding: 1.5vh 1vw;
+  display: flex;
+  font-weight: 400 !important;
+  align-items: center;
+}
+
+.sidenavlinks:hover {
+  color: white;
+  border-left: 3px rgb(236, 99, 72) solid;
+  font-weight: 300 !important;
+  background-color: black;
+}
+.active {
+  color: white;
+  border-left: 2px rgb(236, 99, 72) solid;
+}
+
+svg:hover {
+  fill: rgb(236, 99, 72);
+}
+/* ::-webkit-scrollbar {
+  width: 5px;
+}
+
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+
+::-webkit-scrollbar-thumb {
+  background: rgb(71 85 105);
+  border-radius: 10px;
+}
+
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+} */
+@media only screen and (max-width: 768px) {
+  .sidenavlinks {
+    padding: 1.5vh 3vw;
+  }
+}

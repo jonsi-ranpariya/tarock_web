@@ -1,0 +1,28 @@
+.Dropdown-control {
+  background-color: transparent !important;
+  color: rgb(148 163 184) !important;
+  border: 0;
+}
+.Dropdown-arrow {
+  top: 25px;
+}
+
+.Dropdown-menu {
+  background-color: rgb(39 39 42) !important;
+  border: 0px !important;
+  max-height: max-content;
+}
+.Dropdown-option {
+  color: white !important;
+}
+.Dropdown-control:hover {
+  /* box-shadow: 0 1px 0 rgb(0 0 0 / 6%); */
+  box-shadow: none;
+}
+
+.Dropdown-menu .is-selected {
+  background-color: rgb(55 65 81) !important;
+}
+.Dropdown-option:hover {
+  background-color: rgb(75 85 99);
+}

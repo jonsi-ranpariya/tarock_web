@@ -1,0 +1,113 @@
+.myDatePicker fieldset.MuiOutlinedInput-notchedOutline {
+  border-color: rgb(100 116 139) !important;
+  border-width: 0.3px;
+}
+
+.myDatePicker .Mui-focused fieldset.MuiOutlinedInput-notchedOutline {
+  border-color: rgb(100 116 139) !important;
+  border-width: 0.3px;
+}
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+  background-color: white !important;
+}
+
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+  background-color: black !important;
+}
+
+/* .css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root {
+  border-width: 1px !important;
+  border-color: rgb(236,99,72) !important ;
+  outline: none !important;
+} */
+.css-yiavyu-MuiBackdrop-root-MuiDialog-backdrop {
+  background-color: rgba(0, 0, 0, 0.75) !important;
+}
+.css-1jy569b-MuiFormLabel-root-MuiInputLabel-root {
+  color: rgb(236, 99, 72) !important;
+}
+
+.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 700;
+
+  color: rgb(148 163 184) !important;
+}
+
+.css-1sumxir-MuiFormLabel-root-MuiInputLabel-root {
+  color: rgb(148 163 184) !important;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+}
+
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+  color: rgb(148 163 184) !important;
+}
+
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root {
+  color: rgb(148 163 184) !important;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+.css-umzx0k-MuiClock-pin {
+  background-color: rgb(236, 99, 72) !important;
+}
+
+.css-4f0ona-MuiClock-clock {
+  color: rgb(148 163 184) !important;
+}
+
+.css-1t1j96h-MuiPaper-root-MuiDialog-paper,
+.css-1yllih9-MuiPaper-root-MuiPickersPopper-paper {
+  background: rgb(39 39 42) !important;
+  color: rgb(236, 99, 72) !important;
+}
+
+.css-d0vs79-MuiClockPointer-root,
+.css-1wahiw3-MuiButtonBase-root-MuiIconButton-root-MuiClock-pmButton,
+.css-kjd0cg-MuiButtonBase-root-MuiIconButton-root-MuiClock-amButton {
+  background-color: rgb(236, 99, 72) !important;
+}
+
+.css-5hk6ak-MuiButtonBase-root-MuiIconButton-root-MuiClock-pmButton,
+.css-1eam32d-MuiButtonBase-root-MuiIconButton-root-MuiClock-amButton {
+  color: white !important;
+}
+
+.css-eg3pzz-MuiClockPointer-thumb,
+.css-12t0dn4-MuiClockPointer-thumb {
+  background-color: rgb(236, 99, 72) !important;
+  border: 16px solid rgb(236, 99, 72) !important;
+}
+
+.css-1mgnakj-MuiTypography-root-PrivatePickersToolbarText-root,
+.css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+  color: rgb(236, 99, 72) !important;
+}
+
+.css-1lfjyjz-MuiTypography-root-PrivatePickersToolbarText-root-MuiTimePickerToolbar-separator {
+  color: rgb(148 163 184) !important;
+}
+
+.css-iyrw7v-MuiTypography-root-PrivatePickersToolbarText-root.Mui-selected,
+.css-iyrw7v-MuiTypography-root-PrivatePickersToolbarText-root,
+.css-1hbyad5-MuiTypography-root,
+.css-nxo287-MuiInputBase-input-MuiOutlinedInput-input {
+  color: rgb(148 163 184) !important;
+}
+
+.css-i4bv87-MuiSvgIcon-root {
+  fill: rgb(148, 163, 184) !important;
+}
+
+.css-4f0ona-MuiClock-clock {
+  background-color: white !important;
+}
+
+.css-epd502 {
+  width: 380px;
+}
+
+.css-raiqh1-MuiTypography-root-MuiDayPicker-weekDayLabel {
+  color: white !important;
+}
